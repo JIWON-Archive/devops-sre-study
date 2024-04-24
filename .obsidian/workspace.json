@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "image.md",
+                "file": "PC 네트워크 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image.md",
+                "file": "PC 네트워크 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image.md",
+                "file": "PC 네트워크 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image.md"
+                "file": "PC 네트워크 정리.md"
               }
             }
           }
@@ -173,19 +173,20 @@
   },
   "active": "1efb4bba49ccaed6",
   "lastOpenFiles": [
-    "Pasted image 20240424221800.png",
-    "Pasted image 20240423145701.png",
-    "PC 네트워크 정리.md",
+    "image/Pasted image 20240424221800.png",
+    "image/Pasted image 20240423145953.png",
+    "image",
     "image.md",
-    "Pasted image 20240424221646.png",
+    "image/Pasted image 20240423145701.png",
+    "PC 네트워크 정리.md",
+    "image/Pasted image 20240424221646.png",
     "240423.md",
     "240424.md",
-    "Pasted image 20240424095857.png",
-    "Pasted image 20240424093217.png",
-    "Pasted image 20240423150155.png",
-    "Pasted image 20240423145953.png",
-    "Pasted image 20240423145814.png",
-    "Pasted image 20240423145728.png",
+    "image/Pasted image 20240424095857.png",
+    "image/Pasted image 20240424093217.png",
+    "image/Pasted image 20240423150155.png",
+    "image/Pasted image 20240423145814.png",
+    "image/Pasted image 20240423145728.png",
     "0423.md"
   ]
 }
