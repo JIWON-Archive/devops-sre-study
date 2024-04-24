@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-23.md",
+                "file": "240424.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-23.md",
+                "file": "240424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-23.md",
+                "file": "240424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-23.md"
+                "file": "240424.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "89d8ff793ec2b04d",
   "lastOpenFiles": [
-    "Pasted image 20240423145701.png",
+    "Pasted image 20240424093217.png",
     "2024-04-23.md",
+    "240424.md",
+    "Pasted image 20240423145701.png",
     "Pasted image 20240423150155.png",
     "Pasted image 20240423145953.png",
     "Pasted image 20240423145814.png",
