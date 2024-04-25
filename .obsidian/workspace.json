@@ -47,9 +47,11 @@
             "id": "994b6e90b363ba93",
             "type": "leaf",
             "state": {
-              "type": "mk-uri-view",
+              "type": "markdown",
               "state": {
-                "path": "https://www.make.md/static/latest.md"
+                "file": "PC 네트워크 정리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -129,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PC 네트워크 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PC 네트워크 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PC 네트워크 정리.md"
+              }
             }
           }
         ]
@@ -188,6 +194,8 @@
   },
   "active": "994b6e90b363ba93",
   "lastOpenFiles": [
+    "240424.md",
+    "240423.md",
     "Tags",
     "PC 네트워크 정리.md",
     "Pasted image 20240424222520.png",
@@ -198,8 +206,6 @@
     "image.md",
     "image/Pasted image 20240423145701.png",
     "image/Pasted image 20240424221646.png",
-    "240423.md",
-    "240424.md",
     "image/Pasted image 20240424095857.png",
     "image/Pasted image 20240424093217.png",
     "image/Pasted image 20240423150155.png",
