@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "994b6e90b363ba93",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -89,8 +99,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "279f0a61f4a54d10",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -110,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC 네트워크 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC 네트워크 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PC 네트워크 정리.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,8 +186,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1efb4bba49ccaed6",
+  "active": "994b6e90b363ba93",
   "lastOpenFiles": [
+    "Tags",
+    "PC 네트워크 정리.md",
     "Pasted image 20240424222520.png",
     "Pasted image 20240424222422.png",
     "image/Pasted image 20240424221800.png",
@@ -180,7 +197,6 @@
     "image",
     "image.md",
     "image/Pasted image 20240423145701.png",
-    "PC 네트워크 정리.md",
     "image/Pasted image 20240424221646.png",
     "240423.md",
     "240424.md",
@@ -188,7 +204,6 @@
     "image/Pasted image 20240424093217.png",
     "image/Pasted image 20240423150155.png",
     "image/Pasted image 20240423145814.png",
-    "image/Pasted image 20240423145728.png",
     "0423.md"
   ]
 }
