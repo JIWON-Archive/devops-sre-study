@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "658a8c6d6682bc28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "240425.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC 네트워크 정리.md",
+                "file": "240425.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC 네트워크 정리.md",
+                "file": "240425.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC 네트워크 정리.md"
+                "file": "240425.md"
               }
             }
           }
@@ -192,12 +203,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "994b6e90b363ba93",
+  "active": "658a8c6d6682bc28",
   "lastOpenFiles": [
+    "PC 네트워크 정리.md",
+    "240425.md",
     "240424.md",
     "240423.md",
     "Tags",
-    "PC 네트워크 정리.md",
     "Pasted image 20240424222520.png",
     "Pasted image 20240424222422.png",
     "image/Pasted image 20240424221800.png",
