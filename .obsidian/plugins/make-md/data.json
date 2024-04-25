@@ -11,7 +11,7 @@
   "makerMode": true,
   "imageThumbnails": false,
   "spacesMDBInHidden": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
